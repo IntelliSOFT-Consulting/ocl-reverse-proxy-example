@@ -1,2 +1,2 @@
 # ocl-reverse-proxy-example
-Starter files for a reverse proxy OCL instance.
+Boiler plate for a setting up reverse proxy for running Open Concept Lab (OCL)
